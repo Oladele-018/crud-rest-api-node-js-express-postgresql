@@ -1,5 +1,3 @@
-https://blog.logrocket.com/crud-rest-api-node-js-express-postgresql/
-
 mkdir pg-lesson-one
 cd pg-lesson-one
 createdb -U travis pg-lesson-two
